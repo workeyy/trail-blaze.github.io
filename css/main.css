@@ -70,6 +70,7 @@ body {
   height: 100vh;
   background: linear-gradient(to top, #303036, #30bced, #208cb3);
 }*/
+
 header {
   display: flex;
   width: 90%;
@@ -155,4 +156,25 @@ a {
 .discord-link a {
   color: #acacac;
   text-decoration: underline;
+}
+.credits {
+  text-align: center;
+  font-size: 4vw;
+  color: #494949;
+}
+
+.credits1 {
+  text-align: center;
+  font-size: 1.5vw;
+  color: #494949;
+}
+
+.container {
+  font-family: "Poppins";
+}
+
+.credits-list {
+  text-align: center;
+  font-size: 1.5vw;
+  color: #494949;
 }
